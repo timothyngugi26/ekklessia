@@ -58,7 +58,7 @@ Database: PostgreSQL
 
 🛠️ Getting Started
 1️⃣ Clone the Repository
-git clone https://github.com/timothyngugi26/ekklesia.git
+git clone https://github.com/timothyngugi26/ekklessia
  cd ekklesia
 
 2️⃣ Set Up Virtual Environment
